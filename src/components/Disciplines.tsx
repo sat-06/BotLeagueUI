@@ -1,10 +1,10 @@
 const disciplines = [
-  { name: 'Robo Race', img: '/disciplines/robo-race.png' },
-  { name: 'Line Follower', img: '/disciplines/line-follower.png' },
-  { name: 'RC Racing', img: '/disciplines/rc-racing.png' },
-  { name: 'FPV Drone Racing & Simulation', img: '/disciplines/fpv-drone.png' },
-  { name: 'Robo Hockey', img: '/disciplines/robo-hockey.png' },
-  { name: 'Robo War', img: '/disciplines/robo-war.png' },
+  { name: 'Robo Race', img: '/disciplines-hd/robo-race.png' },
+  { name: 'Line Follower', img: '/disciplines-hd/line-follower.png' },
+  { name: 'RC Racing', img: '/disciplines-hd/rc-racing.png' },
+  { name: 'FPV Drone Racing & Simulation', img: '/disciplines-hd/fpv-drone.png' },
+  { name: 'Robo Hockey', img: '/disciplines-hd/robo-hockey.png' },
+  { name: 'Robo War', img: '/disciplines-hd/robo-war.png' },
 ];
 
 export default function Disciplines() {
