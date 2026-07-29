@@ -12,7 +12,7 @@ export default function Hero() {
           <div>
             <p className="text-gray-500 text-xs tracking-widest uppercase font-medium mb-2">THE FUTURE OF ROBOTICS LEAGUE</p>
             <h1 className="font-heading text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold uppercase text-white leading-[1.05] max-w-xl">
-              INDIA\'S <br />ULTIMATE<br />
+              INDIA'S <br />ULTIMATE<br />
               <span className="text-bot-red">ROBOTICS</span> ARENA
             </h1>
             <p className="mt-5 text-sm sm:text-base text-gray-400 max-w-md leading-relaxed">
@@ -31,8 +31,8 @@ export default function Hero() {
             <div className="relative w-full max-w-[400px]">
               <div className="absolute -inset-4 bg-bot-red/15 blur-[60px] rounded-2xl" />
               <div className="absolute -inset-2 bg-blue-600/8 blur-[40px] rounded-2xl" />
-              <div className="relative rounded-2xl overflow-hidden border-2 border-[#2a2a2a] bg-gradient-to-b from-[#1a1a2e] to-[#0a0a0a]">
-                <img src="/hero-bot.png" alt="Combat robot on reflective arena floor" className="w-full h-auto object-contain max-h-[350px]" />
+              <div className="relative rounded-2xl overflow-hidden border-2 border-[#2a2a2a]">
+                <img src="/section-hero.png" alt="Combat robot in arena" className="w-full h-auto object-cover" />
                 <div className="absolute bottom-0 left-0 right-0 h-1/3 bg-gradient-to-t from-black/70 to-transparent" />
               </div>
               <div className="absolute -bottom-4 -left-4 bg-[#111] border border-bot-red/30 rounded-xl px-4 py-2.5">
